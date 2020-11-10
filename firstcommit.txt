@@ -1,10 +1,9 @@
 first commit~
 
-<<<<<<< HEAD
+
 second commit~~
 A개발자가 수정하는 중........
 
-=======
-아 내가 수정해서 push했어
-확인부탁
->>>>>>> fee5cd653c21db6ef601d5da3e991261e4246333
+
+
+
